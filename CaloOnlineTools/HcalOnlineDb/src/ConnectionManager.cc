@@ -8,7 +8,26 @@
 
 ConnectionManager::ConnectionManager() : env(0), conn(0) {
 }
-
+/*
+sdfsdfsdfsdfsdf
+sdfsdfsdfsdfsdf
+sdfsdfsdfsdf
+sdf
+sdfsdf
+sd
+fsd
+f
+sd
+f
+sdf
+sd
+f
+sdf
+sd
+fsd
+fdsfsdfsdfsdfsdfffffffffffffffffffffffffffffffffffffffffffff
+sdfdffffffffffffffffffssssssssssssssssssssssssssssssssssssssssssssssssss
+*/
 static const std::string keyFile("/nfshome0/hcalsw/.ReadOMDSKey");
 
 static void clean(char* s) {
