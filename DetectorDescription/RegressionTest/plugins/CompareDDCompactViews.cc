@@ -9,7 +9,17 @@
 #include "DetectorDescription/Parser/interface/DDLParser.h"
 #include "DetectorDescription/Parser/interface/FIPConfiguration.h"
 #include "DetectorDescription/RegressionTest/interface/DDCompareTools.h"
-
+/*
+sdfsdfsd
+sdfsd
+fsd
+f
+sdf
+sdf
+sd
+fsdfsdfsdfsdfsdf
+dfsdfsdfsdfds
+*/
 class CompareDDCompactViews : public edm::one::EDAnalyzer<edm::one::WatchRuns> {
 public:
   explicit CompareDDCompactViews(const edm::ParameterSet&);
