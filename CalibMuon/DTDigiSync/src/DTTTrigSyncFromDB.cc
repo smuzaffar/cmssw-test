@@ -102,7 +102,22 @@ double DTTTrigSyncFromDB::offset(const DTLayer* layer,
       }
     }
   }
+/*
+gfdgdfgdfg
+dfg
+dfg
+dfg
+dfg
+dfgdfgdfgf
+df
+gdfgdfgdfgdf
 
+dfgdfgdfggf
+d
+fg
+dfgdfgdf
+
+*/
   // Compute TOF correction:
   tofCorr = 0.;
   // TOF Correction can be switched off with appropriate parameter
